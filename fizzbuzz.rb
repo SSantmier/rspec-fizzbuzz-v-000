@@ -14,6 +14,5 @@ def fizzbuzz(int)
       puts "nil"
   end
 end
-  #'returns "Fizz" when the number is divisible by 3' 
-  #returns nil when the number is not divisible by 3 or 5'
+  
   
